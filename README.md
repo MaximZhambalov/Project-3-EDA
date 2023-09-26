@@ -40,6 +40,7 @@
 ```
 git clone https://github.com/MaximZhambalov/HeadHunter_Project_2
 ```
+Датасет по проекту можно найти [здесь](https://www.kaggle.com/competitions/sf-booking/data)
 
 ## Использование
 Вся информация о работе представлена в jupyter-ноутбуке EDA_Project_3_model_FINAL.ipynb.
